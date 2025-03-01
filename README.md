@@ -101,9 +101,9 @@ We focus on **creating solutions that drive real-world impact** and **enhance bu
 ## 📈 GitHub Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=proazure-software&show_icons=true&theme=blueberry" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=proazure-software&theme=blueberry" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proazure-software&layout=compact&theme=blueberry" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ProAzure&show_icons=true&theme=blueberry" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProAzure&theme=blueberry" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProAzure&layout=compact&theme=blueberry" />
 </p>
 
 ---
